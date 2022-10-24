@@ -3,10 +3,10 @@ Le but du projet est de créer une application qui analyse le site sifatusafwa.c
 
 Le site sifatusafwa.com propose des livres en langue arabe, essentiellement dans les sciences islamiques. Livres de droit, de langue arabe, traditions prophétiques, histoire, poésie...
 
-![E](/site_analysis/images/illustration1.png?raw=True "E")
+![Alt text](https://raw.githubusercontent.com/eliascopyright/site_analysis/main/images/illustration3.png?token=GHSAT0AAAAAABZQWLFBK6IWVBIDAHZOE4YKY2WS7NQ "illustration1")
 L'analyse a pour but de présenter l'étendue du site, en présentant les livres proposés avec un rapport.
 
-![E2](/site_analysis/images/illustration1.png?raw=True "E")
+![Alt text](https://raw.githubusercontent.com/eliascopyright/site_analysis/main/images/illustration1.png?token=GHSAT0AAAAAABZQWLFBBAHHTKV6ZCEUDQCGY2WTANQ "illustration2")
 
 Développer un modèle d'apprentissage automatique basés sur le site et les livres qu'il propose est l'objectif final.
 
