@@ -6,7 +6,10 @@ Le site sifatusafwa.com propose des livres en langue arabe, essentiellement dans
 Cela peut concerner des débutants avec des manuels par exemple , comme des intermédiaires et confirmés.
 
 ![illustration1](images/illustration3.png "illustration1")
+
+
 Dans un premier temps, l'analyse a pour but de présenter l'étendue du site, en présentant les livres proposés avec un rapport.
+
 
 ![illustration2](images/illustration1.png "illustration2")
 
