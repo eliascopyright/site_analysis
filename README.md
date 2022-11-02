@@ -16,7 +16,7 @@ Dans un premier temps, l'analyse a pour but de présenter l'étendue du site, en
 Développer un modèle d'apprentissage automatique basés sur le site et les livres qu'il propose est l'objectif final.
 
 ## Objectifs et stades du projet
-#### **Niveau 1**: Créer des graphiques montrant l’étendue du site (commencer par le fiqh maliki) : un DataFrame avec plusieurs colonnes :
+#### **Niveau 1**: Créer des graphiques montrant l’étendue du site (commencer par le fiqh maliki) : un DataFrame avec plusieurs colonnes :
 1) Titre français
 2) Titre arabe
 3) Prix
@@ -41,4 +41,5 @@ Dresser un rapport si possible sur un outil de visualisation mais dont les donn�
 ## Avancées du projet
 
 **24/10/2022** : sifatusafwa-2.ipynb créé une "base de données" de livres, fiqh_maliki.xlsx, objectif 1 réalisé.
+**31/10/2022** : fiqhmaliki-extract-2 extrait les descriptions, les prix et les auteurs.
 
